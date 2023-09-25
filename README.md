@@ -1,2 +1,2 @@
 # IDS_Analysing_IMD
-This project analyses the Index of multiple deprivation across the top ranked and bottom ranked local authority districts in the UK.
+This project explores the Index of Multiple Deprivation (IMD) within the highest and lowest-ranked local authority districts in the UK. We leverage UK boundary data to craft geospatial visualizations, providing insights into the geographic distribution of these districts across the UK. Additionally, we employ dumbbell plots to analyze how each of the indices used to calculate IMD varies within these two categories. Finally, linear regression is applied to uncover the primary factors influencing the assigned rankings.
